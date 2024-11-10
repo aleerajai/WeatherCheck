@@ -10,6 +10,7 @@ body {
 .lob{ 
 font-family: "Urdu Nastaliq Unicode";
 font-size: 32px;
+border: 1px solid black;
 } 
 
 .container {
