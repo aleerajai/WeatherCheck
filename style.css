@@ -8,9 +8,8 @@ body {
     margin: 0;
 }
 .lob{ 
-font-family: "Jameel Noori Nastaleeq Regular.ttf";  
-url("./Jameel Noori Nastaleeq Regular.ttf") format("TrueType"), 
- 
+font-family: "Urdu Nastaliq Unicode";
+font-size: 32px;
 } 
 
 .container {
