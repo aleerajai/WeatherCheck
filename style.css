@@ -7,11 +7,10 @@ body {
     height: 100vh;
     margin: 0;
 }
-.lob{ 
-font-family: "Urdu Nastaliq Unicode";
-font-size: 32px;
-border: 1px solid black;
-} 
+@font-face {
+   font-family: myFirstFont;
+   src: url(Jameel Noori Nastaleeq Regular.ttf);
+}
 
 .container {
     text-align: center;
