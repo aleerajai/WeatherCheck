@@ -30,6 +30,6 @@ button {
 background-color: yellow;
 border-radius: 25px 25px 25px 25px;
 }
-a href="https://bit.ly/alirajai{
+a {
 text-decoration: none;
 }
