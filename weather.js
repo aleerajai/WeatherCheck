@@ -31,11 +31,21 @@ function fetchWeather(city) {
 
 function displayWeather(data) {
     
-    weatherData.innerHTML = `
+    alert (weatherData.innerHTML = `
+        <b>Weather in ${data.name}, ${data.sys.country}:</b><br>
+        <br>
+        <b>Temperature:</b> ${data.main.temp} °C<br>
+        <b>Feels like:</b> ${data.main.feels_like} °C<br>
+      <b>
+    `;)
+
+weatherData.innerHTML = `
         <b>Weather in ${data.name}, ${data.sys.country}:</b><br>
         <br>
         <b>Temperature:</b> ${data.main.temp} °C<br>
         <b>Feels like:</b> ${data.main.feels_like} °C<br>
       <b>
     `;
+
+
 }
