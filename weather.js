@@ -36,8 +36,8 @@ function displayWeather(data) {
         <br>
         <b>Temperature:</b> ${data.main.temp} °C<br>
         <b>Feels like:</b> ${data.main.feels_like} °C<br>
-        <b>Weather:</b> ${data.weather[0].description}<br>
+     /*   <b>Weather:</b> ${data.weather[0].description}<br>
         <b>Humidity:</b> ${data.main.humidity}%<br>
         <b>Pressure:</b> ${data.main.pressure} hPa
     `;
-}
+}*/
