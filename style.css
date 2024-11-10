@@ -7,8 +7,8 @@ body {
     height: 100vh;
     margin: 0;
 }
-@font-face { 
-font-family: "CustomFont";  
+.lob{ 
+font-family: "Jameel Noori Nastaleeq Regular.ttf";  
 url("./Jameel Noori Nastaleeq Regular.ttf") format("TrueType"), 
  
 } 
