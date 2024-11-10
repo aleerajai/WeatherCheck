@@ -7,6 +7,11 @@ body {
     height: 100vh;
     margin: 0;
 }
+@font-face { 
+font-family: "CustomFont";  
+url("Jameel Noori Nastaleeq Regular.ttf") format("TrueType"), 
+ 
+} 
 
 .container {
     text-align: center;
