@@ -33,7 +33,7 @@ function displayWeather(data) {
     const icon = `http://openweathermap.org/img/wn/${data.weather[0].icon}@2x.png`;
     weatherData.innerHTML = `
         <b>Weather in ${data.name}, ${data.sys.country}:</b><br>
-        <img src="${icon}" alt="Weather icon"><br>
+        <img src="${icon.}" alt="Weather icon"><br>
         <b>Temperature:</b> ${data.main.temp} °C<br>
         <b>Feels like:</b> ${data.main.feels_like} °C<br>
         <b>Weather:</b> ${data.weather[0].description}<br>
