@@ -28,4 +28,5 @@ button {
 }
 #getWeatherBtn {
 background-color: yellow;
+border-radius: 25px 25px 25px 25px;
 }
