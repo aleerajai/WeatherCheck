@@ -31,7 +31,7 @@ function fetchWeather(city) {
 
 function displayWeather(data) {
     
-    alert (weatherData.innerHTML = `
+    alert(weatherData.innerHTML = `
         <b>Weather in ${data.name}, ${data.sys.country}:</b><br>
         <br>
         <b>Temperature:</b> ${data.main.temp} °C<br>
