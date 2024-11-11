@@ -11,9 +11,12 @@ body {
    font-family: myFirstFont;
    src: url(Jameel\ Noori\ Nastaleeq\ Regular.ttf);
 }
-.urdu {
-font-size: 135px;
+h2 { 
+
+  letter-spacing: 5px; 
+
 }
+
 .container {
     text-align: center;
     background: white;
