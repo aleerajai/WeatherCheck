@@ -21,11 +21,6 @@ body {
    font-family: myFirstFont;
    src: url(Jameel\ Noori\ Nastaleeq\ Regular.ttf);
 }
-h2 { 
-
-  letter-spacing: 20px; 
-
-}
 
 .container {
     text-align: center;
